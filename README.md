@@ -41,10 +41,10 @@ Please organize and complete the following deliverables within this repository:
 
 ### 2. **Demo Video**
 - Upload your video to YouTube, Vimeo, or as an mp4 file.
-- **Link to Demo Video**: [Intro](https://drive.google.com/file/d/1gKphB2DLLgW-H3eRXT9Q9WgE0TPrh4YI/view?usp=sharing)
+- **Link to Demo Video**: [Video](https://drive.google.com/file/d/1gKphB2DLLgW-H3eRXT9Q9WgE0TPrh4YI/view?usp=sharing)
 
 ### 3. **Live Application URL**
-- **Link to Live App**: [Intro](https://hellotractor.mojatech.shop)
+- **Link to Live App**: [Hellotrator](https://hellotractor.mojatech.shop)
 
 ### 4. **Technical Documentation**
 - Include setup instructions for running the project locally.
