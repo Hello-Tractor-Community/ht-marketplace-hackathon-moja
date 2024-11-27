@@ -1,9 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xoeTal9p)
+
 # **Hello Tractor E-commerce Hackathon 🚜**
 
 Welcome to the Hello Tractor E-commerce Hackathon! This repository is your central workspace for the challenge. Follow the structure below to organize and present your deliverables. Let’s innovate for Africa’s agricultural future!
 
 ---
+
+## Project: Moja
+**Project Link**: [Intro](https://hellotractor.mojatech.shop)
+**Video Link**: [Intro](https://video.mojatech.shop)
+
+
 
 ## **Hackathon Overview 🌍**
 
@@ -35,16 +41,15 @@ Please organize and complete the following deliverables within this repository:
 
 ### 2. **Demo Video**
 - Upload your video to YouTube, Vimeo, or as an mp4 file.
-- **Link to Demo Video**: [Insert your video link here]
+- **Link to Demo Video**: [Intro](https://drive.google.com/file/d/1gKphB2DLLgW-H3eRXT9Q9WgE0TPrh4YI/view?usp=sharing)
 
 ### 3. **Live Application URL**
-- Deploy your application to a platform like Vercel, Netlify, or AWS.
-- **Link to Live App**: [Insert live application URL here]
+- **Link to Live App**: [Intro](https://hellotractor.mojatech.shop)
 
 ### 4. **Technical Documentation**
 - Include setup instructions for running the project locally.
 - Provide any architecture diagrams or flowcharts explaining the design.
-- **Documentation**: Add details in a `docs/` folder or link to relevant markdown files.
+- **Documentation**: Details in  `docs/`
 
 ### 5. **Project Report**
 Complete this section in a separate ReadMe file `report.md`:
